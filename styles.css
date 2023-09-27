@@ -1,6 +1,6 @@
 .holder{
 	display:flex;
-	flex-flow:row;
+	flex-direction:row;
 	justify-content:space-evenly;
 	flex-wrap:wrap;
 }
